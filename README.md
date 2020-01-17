@@ -6,7 +6,7 @@ Bill of Materials:
 
 *Teensy 3.2
 
-* ALPHA VERTICAL 9MM POTENTIOMETER (tested with 25k&10k)
+*ALPHA VERTICAL 9MM POTENTIOMETER (tested with 25k&10k)
 https://www.thonk.co.uk/shop/alpha-9mm-pots/
 
 *Knobs & Caps:
