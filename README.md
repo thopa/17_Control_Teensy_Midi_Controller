@@ -6,8 +6,8 @@ Bill of Materials:
 
 *Teensy 3.2
 
-* ALPHA VERTICAL 9MM POTENTIOMETER ( tested with 25k & 10k)
-https://www.thonk.co.uk/shop/vertical-b10k-10k-linear/
+* ALPHA VERTICAL 9MM POTENTIOMETER (tested with 25k&10k)
+https://www.thonk.co.uk/shop/alpha-9mm-pots/
 
 *Knobs & Caps:
 
