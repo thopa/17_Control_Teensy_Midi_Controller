@@ -2,6 +2,10 @@
 Teensy based midi controller inspired by the monome Fourn and Arc
 ![My image](https://github.com/thopa/17_Control_Teensy_Midi_Controller/blob/master/Pictures/trimmed.jpg)
 
+When downloading and extracting files, make sure name.h is in the samne folder as the 17_Teensy_Midi_Controller.ino
+
+Arduino does not keep the same file estructure when extracting.
+
 Bill of Materials:
 
 *Teensy 3.2
